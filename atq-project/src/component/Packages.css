@@ -1,0 +1,17 @@
+.packages-section {
+  padding: 80px 10%;
+}
+
+.packages-section h2 {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 2.2rem;
+}
+
+.packages-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 25px;
+  flex-wrap: nowrap;
+}
